@@ -1,4 +1,5 @@
 # Smart-walker
 My high school engineering project
 Resposibility : Design machine algorithm and circuit
-Code file of this project was lost form my old laptop but if who want to create same product or develope you can read prototype design following from pdf file.
+Unfortunately, the original code file for this project was lost with my old laptop. Nevertheless, those interested in developing a similar product can refer to the prototype design provided in the attached PDF.
+
